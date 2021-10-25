@@ -12,7 +12,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://github.com/perryhood/BCG/blob/main/pictures/20140207_105159.jpg)
+![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/profile.jpg)
 
 <!-- Add your details -->
 
